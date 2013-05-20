@@ -5,10 +5,11 @@
 *.war
 *.ear
 
-/target/
+target/
 .idea/
 *.class
 *.iml
 .classpath
 .project
 .settings/
+.groovy/
