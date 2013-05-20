@@ -19,7 +19,7 @@ I tried following approaches:
 All are listed here: https://gist.github.com/kpiwko/5612949
 
 In the end it seems that Groovy is the most readable while does impacting test
-infrastructure heavily.
+infrastructure that heavily.
 
 === Why are the tests in different module than app itself?
 
